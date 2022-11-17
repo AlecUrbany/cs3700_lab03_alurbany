@@ -1,0 +1,9 @@
+
+Thread[0] - slice [0:249999]
+Thread[1] - slice [250000:499999]
+Thread[2] - slice [500000:749999]
+Thread[3] - slice [750000:999999]
+Time for addition 0.00262455 seconds
+Result Max: 96
+Result Min: 10
+
